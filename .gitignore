@@ -1,0 +1,7 @@
+#!.gitignore
+
+# useless folders
+cache/
+libraries/
+logs/
+versions/
